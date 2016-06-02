@@ -1,0 +1,14 @@
+layout_spectrum: 1
+color:
+  saturation: 0.3734304
+  lightness: 0.6126316
+  brandStrength: 0.5463999
+  brandColors:
+    - '#F6F5F3'
+    - '#0A0B0F'
+    - '#45454D'
+    - '#6B6A6F'
+    - '#96959A'
+  rhythmicContrast: 0.5128359
+typography_spectrum: 0.4014337
+name: Elojo
